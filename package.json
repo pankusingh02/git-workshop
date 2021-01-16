@@ -1,0 +1,18 @@
+{
+  "name": "upload_file",
+  "version": "1.0.0",
+  "description": "upload file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "fs": "0.0.1-security",
+    "mongodb": "^3.6.3",
+    "nodemon": "^2.0.6"
+  }
+}
